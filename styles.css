@@ -24,7 +24,7 @@ h3 {
 width: 30%;
 margin: 10px;
 padding: 20px 10px;
-background: rgb(224, 240, 246); /* pick a color */
+background: rgb(135, 175, 190); /* pick a color */
 border-radius: 25%;
 }
 
@@ -32,7 +32,7 @@ border-radius: 25%;
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(6, 70, 125); /* choose a color */
+    border: 2px solid rgb(142, 180, 213); /* choose a color */
     display: block;
     margin: auto;
     }
@@ -45,10 +45,6 @@ a { /* change the appearance of ALL links */
     text-align: center;
     margin: 15px;
     }
-
-p{
-
-}
 
 
 .about{
@@ -63,7 +59,7 @@ p{
 width: 150px;
 height: 200px;
 border-radius: 20%;
-border: 2px solid rgb(31, 20, 123);
+border: 2px solid rgb(59, 57, 168);
 }
 
 .about p {
@@ -73,7 +69,3 @@ border: 2px solid rgb(31, 20, 123);
     line-height: 125%;
     }
 
-/* Skills Section Styling */
-.skills {
-    margin: 40px;
-}
